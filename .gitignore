@@ -1,11 +1,6 @@
-/target/
+target/
+.idea
+.vscode
 *.log
-*.class
-*.jar
-*.war
-.idea/
-.vscode/
-*.iml
-.env
 application.properties
 application.yml
